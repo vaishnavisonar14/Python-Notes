@@ -42,4 +42,5 @@ This notebook currently covers the following core topics:
 ##  How to Use This Notebook
 
 
-   git clone https://github.com/<vaishnavisonar14>/<Python-Notes>.git
+[   git clone https://github.com/<vaishnavisonar14>/<Python-Notes>.git
+](https://github.com/vaishnavisonar14/Python-Notes/blob/main/Python(intro%20and%20operators).ipynb)
